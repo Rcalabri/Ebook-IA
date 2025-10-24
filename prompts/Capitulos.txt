@@ -1,0 +1,15 @@
+estou escrevendo um ebook sobre mudança de carreira para area dev, crie titulos para os 4 capitulos. o livro se chama "seu proximo level: DEV". 
+
+{REGRAS}
+
+- os capitulos devem ser divididos com introdução a mudança de carreira, o que estudar, como adaptar seu curriculo, e conclua o assunto com a inserção no mercado de trabalho
+
+- os titulos devem fazer piadas com o titulo e com tematica nerd tipo "lvl 0:...." ou algo similar 
+
+- os subtitulos deve3m ser diretos e curtos
+
+{REGRAS NEGATIVAS}
+
+- não utilizar termos tecnicos e avançados
+
+- não utilizar emojis

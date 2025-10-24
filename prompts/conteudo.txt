@@ -1,0 +1,8 @@
+crie conteudo para uma capitulo de um ebook chamado "seu proximo level: dev" o conteudo para capitulo "Lvl 0: Escolha sua Classe" Subtítulo "A aventura começa com a decisão de mudar de carreira." o capitulo deve falar sobre as carreiras de dev e suas vantagens 
+
+{REGRAS}
+- nao deve conter termos muitos tecnicos o publico alvo são pessoas em mudança de carreiras 
+
+- nao deve conter emojis.
+
+- o conteudo deve ser Suscinto
